@@ -3,3 +3,4 @@ Binary search is an efficient algorithm used to find an item in a sorted list.
 Python is widely used in artificial intelligence systems.
 
 Software testing helps verify application correctness.
+Git is used for version control.
