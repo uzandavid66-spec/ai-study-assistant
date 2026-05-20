@@ -1,0 +1,7 @@
+USER: calculate 8*8
+[AI] Calculation result: 64
+USER: search python
+[AI] Results found:
+Python is widely used in artificial intelligence systems.
+USER: memory
+AI: memory displayed
