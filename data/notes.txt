@@ -4,3 +4,4 @@ Python is widely used in artificial intelligence systems.
 
 Software testing helps verify application correctness.
 Git is used for version control.
+Python is used for automation
