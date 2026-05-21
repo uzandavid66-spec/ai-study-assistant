@@ -17,3 +17,9 @@ Python is widely used in artificial intelligence systems.
 Python is used for automation
 USER: memory
 AI: memory displayed
+USER: git add .
+[AI] Unknown command.
+USER: git commit -m "Add final README"
+[AI] Unknown command.
+USER: git push
+[AI] Unknown command.
